@@ -64,5 +64,4 @@ For any questions or feedback, please reach out via rakshitg600@gmail.com.
 
 ---
 
-**Repository URL**: [Pharmacy Sales Analysis](https://github.com/yourusername/pharmacy-sales-analysis)
 
