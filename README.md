@@ -45,7 +45,7 @@ The Power BI dashboards include:
 ## How to Access
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Rakshitg600/pharmacy_analysis.git
+   git clone https://github.com/Rakshitg600/pharmacy_analysis
    ```
 2. Open the `PowerBI` file to explore dashboards.
 3. SQL scripts for data cleaning and DAX queries are available in the `scripts` folder.
@@ -60,7 +60,7 @@ The Power BI dashboards include:
 ---
 
 ## Contact
-For any questions or feedback, please reach out via [email@example.com](mailto:email@example.com).
+For any questions or feedback, please reach out via rakshitg600@gmail.com.
 
 ---
 
